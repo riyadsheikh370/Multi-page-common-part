@@ -1,0 +1,51 @@
+
+#banner_main{
+    background-color: steelblue;
+    height: 790px;
+    width: 100%;
+}
+.banner_text h4{
+    padding-top: 250px;
+    font-size: 54px;
+    font-weight: 600;
+    color: white;
+    font-family: "Roboto Serif", sans-serif;
+}
+.banner_text p{
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-family: "Roboto Serif", sans-serif;
+}
+
+.banner_text .vo a {
+    padding: 10px 25px;
+    color: #1B1C2B;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    background-color: #FCD980;
+    -o-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.banner_text .vp a {
+    color: #F4F6FC;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+
+.banner_img img{
+   padding-top: 200px;
+}

@@ -1,0 +1,38 @@
+.menu_bg {
+    background-color: steelblue;
+}
+
+.homeicon {
+    margin: 0 5px 4px 0;
+}
+
+.menu_options {
+    font-family: "Roboto Serif", sans-serif;
+    color: white !important;
+    font-weight: 500 !important;
+    padding-left: 10px;
+}
+
+
+/* responsive part start */
+
+
+@media(max-width:575px) {
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 transparent;
+    }
+
+}
+
+@media(min-width:576px) and (max-width:767px) {}
+
+@media(min-width:768px) and (max-width:991px) {}
+
+@media(min-width:992px) and (max-width:1199px) {}
+
+@media(min-width:1200px) and (max-width:1399px) {}
+
+@media(min-width:1400px) {}
+
+/* responsive part end */
